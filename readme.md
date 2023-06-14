@@ -45,7 +45,3 @@ Once you solve the solution I would like you to try to write a test table that c
 - A good book: https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440
 - How to write test tables: https://dave.cheney.net/2019/05/07/prefer-table-driven-tests
 - A nice video on go unit tests: https://www.youtube.com/watch?v=0Ov3JAYDyhQ
-
-## Submission
-
-Please zip this folder and send it to farah.fatany@equifax.com and brice.aldrich@equifax.com. Alternatively, you can commit the code to your public github and send the link.
